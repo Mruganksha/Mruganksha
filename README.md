@@ -62,7 +62,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mruganksha/Mruganksha/output/snake.svg" alt="Snake animation" />
 
 ###
 
